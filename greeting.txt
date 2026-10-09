@@ -1,3 +1,6 @@
 Real Estate Backend
 Greeting: Hello! merge conflict
 Team: Lab 6 merge conflict
+
+ahin merge conflict uusgev
+ahin merge conflict uusgev
