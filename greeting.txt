@@ -1,3 +1,3 @@
 Real Estate Backend
-Greeting: Hello! conflict uusgev
-Team: Lab 6 conflict uusgev
+Greeting: Hello! merge conflict
+Team: Lab 6 merge conflict
